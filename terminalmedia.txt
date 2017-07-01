@@ -1,0 +1,2 @@
+"WINDER, GA",1,6/28/2017,1,Station 1,1,16,"CC Offline",1,108.00
+"WINDER, GA",1,6/28/2017,1,Station 1,1,17,"EBT Cash",1,432.00
